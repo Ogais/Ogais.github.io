@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2021/09/07/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>你会为混纺的我感到羞耻吗？</title>
     <url>/2021/09/11/%E4%BD%A0%E4%BC%9A%E4%B8%BA%E6%B7%B7%E7%BA%BA%E7%9A%84%E6%88%91%E6%84%9F%E5%88%B0%E7%BE%9E%E8%80%BB%E5%90%97%EF%BC%9F/</url>
     <content><![CDATA[<p>-</p>
@@ -30,53 +48,6 @@
       <tags>
         <tag>随笔</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>在这里倒下的话，就会筋疲力尽</title>
-    <url>/2021/09/23/%E5%9C%A8%E8%BF%99%E9%87%8C%E5%80%92%E4%B8%8B%E7%9A%84%E8%AF%9D%EF%BC%8C%E5%B0%B1%E4%BC%9A%E7%AD%8B%E7%96%B2%E5%8A%9B%E5%B0%BD/</url>
-    <content><![CDATA[<p>-</p>
-<p>【帰る场所など何処に在りましょう / 动じ过ぎた / もう疲れた】</p>
-<p>-</p>
-<p>过了发疯的年纪……从心肺功能变糟糕开始。<br>睡少了想早点起来，根本做不到。穿好衣服站起来，像是马上就要晕倒了一样，胸口变得很闷很疼。</p>
-<span id="more"></span>
-
-<p>以前蛮喜欢的，摄入官能小说，或者熬夜、看小偶像、追我推，总之快速分泌一些肾上腺素之类的玩意，为了追求极致，压榨自己的潜能，感受活着的感觉，享受一些电子鸦片带来的快乐。现在算是做不到了。再怎么熬夜也只是在屏幕前枯坐而已，心脏也总觉得很危险，像一个漏气的打气筒……可能真的把自己榨干了吧。有点难过，难道身体已经熬垮了吗？</p>
-<p>最近舌头上又长泡了，嗓子里好像也有。小时候特别希望 “剧烈的生气”，最好像公瑾一样吐出血来，或者直接晕过去最好。可惜只有嘴上长泡，说话嘟嘟囔囔、吃饭也吃不动，很没逼格。一向如此。</p>
-<p>中秋节在宿舍里又躺了一天，从凌晨睡到傍晚，吃个饭继续睡。好奇怪啊。去年的这个时候，我因为高考惊恐发作，整日整夜无法入睡。看来欠的觉迟早是要还的。</p>
-<p>没有听清楚，活到五十六岁还是六十五岁。很在意这种事情。反正不到七十岁。<br>想做海员。想当服务生，大半年回陆地一次的那种。到时候了就直接往海里一跳好了。</p>
-<p>晚起床带来懒散，反正已经过了吃早饭的时间了，反正已经过了早上洗澡的时间了，反正已经快到第二节上课了，反正已经快要吃午饭了，反正午饭已经吃完了……那就再晚一些好了。反正已经在玩手机了，如果不关掉手机抬起头就什么也不会发生。就让当前的状态延续下去吧，逃避一切……逃避失败和痛苦，逃避筋疲力尽，逃避软弱和无力。</p>
-<p>【此の戦地で尽きたら……】</p>
-<p>错过了就干脆回避掉好了。在公交车站等一个人，车过去一趟两趟三趟四趟了，天黑下来了，人等不到，可能是没有来上学吧？也没有和其他同学好好告别，就普普通通地离开了初中。干脆通通逃避掉好了，真的到了毕业的时候，偷偷在毕业典礼上溜走，提前离席就可以不用想起永远缺席的那次遗憾了。不想过生日，这样想就可以回避掉一个人孤零零买不到蛋糕的事实。不需要仪式感，是因为在最初的仪式上就缺席了，所以选择了不要。</p>
-<p>喂，只有蓝色药丸，要我怎么选啊？那我选蓝色药丸。</p>
-<p>诶，红色的在这里……？我喜欢蓝色啊，我选了蓝色药丸了，不要问我改不改主意，我不改。</p>
-<p>-</p>
-<p>只想要平平淡淡，充满精力地安稳生活……不想发疯，不想摆荡太过、筋疲力尽。但这样的生活在哪里呢，被抛入这里的我又如何结束流亡呢，特洛伊已经永远地离我而去了，我越前进，离它就越遥远。</p>
-<p>-</p>
-<p>看不懂先刚在讲什么。不知道怎么办才好，一直看一直看，三天了什么也没做，好想尽快把这件事情解决掉啊。可是一件事情后还有下一件，永无止境的工作让人心生厌倦，毫无成就感可言啊。</p>
-<p>不是在 “挣扎”，而是在努力学习，仅此而已。不要把自己当做是 “挣扎者” 啊，要学会才可以……要动用脑筋，要学明白，不要怕困难啊。</p>
-<p>今天也要加油啊……</p>
-]]></content>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2021/09/07/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
   </entry>
   <entry>
     <title>君建个人博客本当上手</title>
@@ -109,6 +80,35 @@
 ]]></content>
       <tags>
         <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在这里倒下的话，就会筋疲力尽</title>
+    <url>/2021/09/23/%E5%9C%A8%E8%BF%99%E9%87%8C%E5%80%92%E4%B8%8B%E7%9A%84%E8%AF%9D%EF%BC%8C%E5%B0%B1%E4%BC%9A%E7%AD%8B%E7%96%B2%E5%8A%9B%E5%B0%BD/</url>
+    <content><![CDATA[<p>-</p>
+<p>【帰る场所など何処に在りましょう / 动じ过ぎた / もう疲れた】</p>
+<p>-</p>
+<p>过了发疯的年纪……从心肺功能变糟糕开始。<br>睡少了想早点起来，根本做不到。穿好衣服站起来，像是马上就要晕倒了一样，胸口变得很闷很疼。</p>
+<span id="more"></span>
+
+<p>以前蛮喜欢的，摄入官能小说，或者熬夜、看小偶像、追我推，总之快速分泌一些肾上腺素之类的玩意，为了追求极致，压榨自己的潜能，感受活着的感觉，享受一些电子鸦片带来的快乐。现在算是做不到了。再怎么熬夜也只是在屏幕前枯坐而已，心脏也总觉得很危险，像一个漏气的打气筒……可能真的把自己榨干了吧。有点难过，难道身体已经熬垮了吗？</p>
+<p>最近舌头上又长泡了，嗓子里好像也有。小时候特别希望 “剧烈的生气”，最好像公瑾一样吐出血来，或者直接晕过去最好。可惜只有嘴上长泡，说话嘟嘟囔囔、吃饭也吃不动，很没逼格。一向如此。</p>
+<p>中秋节在宿舍里又躺了一天，从凌晨睡到傍晚，吃个饭继续睡。好奇怪啊。去年的这个时候，我因为高考惊恐发作，整日整夜无法入睡。看来欠的觉迟早是要还的。</p>
+<p>没有听清楚，活到五十六岁还是六十五岁。很在意这种事情。反正不到七十岁。<br>想做海员。想当服务生，大半年回陆地一次的那种。到时候了就直接往海里一跳好了。</p>
+<p>晚起床带来懒散，反正已经过了吃早饭的时间了，反正已经过了早上洗澡的时间了，反正已经快到第二节上课了，反正已经快要吃午饭了，反正午饭已经吃完了……那就再晚一些好了。反正已经在玩手机了，如果不关掉手机抬起头就什么也不会发生。就让当前的状态延续下去吧，逃避一切……逃避失败和痛苦，逃避筋疲力尽，逃避软弱和无力。</p>
+<p>【此の戦地で尽きたら……】</p>
+<p>错过了就干脆回避掉好了。在公交车站等一个人，车过去一趟两趟三趟四趟了，天黑下来了，人等不到，可能是没有来上学吧？也没有和其他同学好好告别，就普普通通地离开了初中。干脆通通逃避掉好了，真的到了毕业的时候，偷偷在毕业典礼上溜走，提前离席就可以不用想起永远缺席的那次遗憾了。不想过生日，这样想就可以回避掉一个人孤零零买不到蛋糕的事实。不需要仪式感，是因为在最初的仪式上就缺席了，所以选择了不要。</p>
+<p>喂，只有蓝色药丸，要我怎么选啊？那我选蓝色药丸。</p>
+<p>诶，红色的在这里……？我喜欢蓝色啊，我选了蓝色药丸了，不要问我改不改主意，我不改。</p>
+<p>-</p>
+<p>只想要平平淡淡，充满精力地安稳生活……不想发疯，不想摆荡太过、筋疲力尽。但这样的生活在哪里呢，被抛入这里的我又如何结束流亡呢，特洛伊已经永远地离我而去了，我越前进，离它就越遥远。</p>
+<p>-</p>
+<p>看不懂先刚在讲什么。不知道怎么办才好，一直看一直看，三天了什么也没做，好想尽快把这件事情解决掉啊。可是一件事情后还有下一件，永无止境的工作让人心生厌倦，毫无成就感可言啊。</p>
+<p>不是在 “挣扎”，而是在努力学习，仅此而已。不要把自己当做是 “挣扎者” 啊，要学会才可以……要动用脑筋，要学明白，不要怕困难啊。</p>
+<p>今天也要加油啊……</p>
+]]></content>
+      <tags>
+        <tag>随笔</tag>
       </tags>
   </entry>
   <entry>
@@ -148,28 +148,6 @@
 <p>法蒂玛，不要为我哭泣。</p>
 <p>-</p>
 <p>-</p>
-]]></content>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>小象解救计划</title>
-    <url>/2021/09/14/%E5%B0%8F%E8%B1%A1%E8%A7%A3%E6%95%91%E8%AE%A1%E5%88%92/</url>
-    <content><![CDATA[<p>-</p>
-<p>今天状态很不好。</p>
-<span id="more"></span>
-
-<p>上午去上了《中世纪思想中的自由与责任》，很多人，人人人人人，很多硕士博士，很多同级同系的学生。看到他们三三两两坐在一起的时候，我迫真破防了。淦，完全不知道其他人在做什么，这种感觉太糟糕了。（不要瞒着我……可是别人为什么要告诉你呢？）</p>
-<p>吴天岳老师看起来不是很赞同本科生选这门课，说很难任务量很大，读很多书。然后我开始纠结选课的事情。我总觉得自己的时间比别人慢很多，看到其他人八九十门课二十五六个学分，十分伤心。不知道是我效率太低，还是方法不对，还是自己天生就是慢半拍。现在选了七门课，刚上了五门，已经觉得非常艰难了。想让时间停止，什么也不干，在床上躺一整天。明明昨天还是信心满满的。</p>
-<p>已经选的课没有一门想退，剩下一门跨院系的东方文学不知道选不选。据说是大水课，3k的期中论文，6k的期末论文，而且下学期不开。但是给分好像很玄学，课上很多中文系的同学，估计都很能写；课是外国语学院开的，据说他们的老师会给自己院系的学生更多的帮助，导致外院的给分明显比外院的好（绕口令2333）</p>
-<p>又感到自己成了小象，明明链子已经解开了，却不敢离开树桩。虽然还在坚持写东西，但是提到写论文还是心慌害怕，想起一个个不眠不休油米不进却什么也写不出来，在屏幕前枯坐的无激情的黎明。</p>
-<p>三点上完课，和 C 同学去旁听了外教开的哲学导论。陷入了以前时不时出现的游离状态，基本没听进去老师在讲什么，一直在发呆和看手机。</p>
-<p>今天读《流动的现代性》，看不进去，一晚上看了十几页，都不好意思提起。又想起以前看不懂文献的日子，想起三毛在《撒哈拉的故事》里写她考驾照的时候犯紧张，字好像蚂蚁在纸上爬。明明昨天听李康讲课是那么快乐，进入大学一年来，可能是第一次对 “我还能明白什么” “我还能学懂什么” 产生了希望。</p>
-<p>被深深的挫败所包围。过去的影子还是追上了我，只有影子追过来，那些快乐的感受很快就消失了，只有影子永恒存在。</p>
-<p>无论是上课、读文献还是写论文，都存在各种各样的问题。甚至现在已经不相信，自己学懂了什么，或者还有能力去学到什么。从物理转到哲学，我终究还是感到自己是个彻底的废物，一无所长。努力过了……这样对自己说。真的是这样吗。不，这样的我真的能做出什么吗。已经在文科院系了，转码估计也是类似的结果吧。已经没有退路了。已经没有退路了。</p>
-<p>比起上课，更接近于放空大脑呆呆坐着，或者看手机来逃避；比起读文献，更接近于反复读一段话，然后一而再再而三地读不懂；比起写论文，更接近于什么都不做，脑子停止运转，试图单凭在这里坐着就能写出东西。是啊，问题在这里：你的思考已经停止了。在战场上，脑子不动的人一定会死得很快。《马哲（上）》考出那样的分数，你心里也有数的吧，虽然看了很多马克思的原文，但是对于老师在讲什么以及PPT上的东西到底为什么那么写完全没有理解吧，最后也没有动脑，妄想着能靠背PPT这种机械的、连小学生都能干的低价值劳动获得辛苦分，然后被方博一眼看穿了吧。说起来，《中哲（下）》能拿89，不也是因为动脑筋了吗，领会了吗，明白杨立华在说什么了吗。必须思考，必须时刻运转，无量空处——（拖出去</p>
-<p>今天到底是怎么回事。一开始就没想好好听讲吧。文章不也一直在写吗，如果还有所怀疑的话就去写咕了很久的电锯人漫评啊那也算论文吧。《红拂夜奔》还没还吧，那个总能少害怕一点吧，试试看那个好了。减轻恐惧的方法有很多，恐惧产生的理由也可以逐个消除。你还是那个你，性格倔强，才华横溢，心想事成。</p>
 ]]></content>
       <tags>
         <tag>随笔</tag>
@@ -244,6 +222,28 @@
 ]]></content>
       <tags>
         <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>小象解救计划</title>
+    <url>/2021/09/14/%E5%B0%8F%E8%B1%A1%E8%A7%A3%E6%95%91%E8%AE%A1%E5%88%92/</url>
+    <content><![CDATA[<p>-</p>
+<p>今天状态很不好。</p>
+<span id="more"></span>
+
+<p>上午去上了《中世纪思想中的自由与责任》，很多人，人人人人人，很多硕士博士，很多同级同系的学生。看到他们三三两两坐在一起的时候，我迫真破防了。淦，完全不知道其他人在做什么，这种感觉太糟糕了。（不要瞒着我……可是别人为什么要告诉你呢？）</p>
+<p>吴天岳老师看起来不是很赞同本科生选这门课，说很难任务量很大，读很多书。然后我开始纠结选课的事情。我总觉得自己的时间比别人慢很多，看到其他人八九十门课二十五六个学分，十分伤心。不知道是我效率太低，还是方法不对，还是自己天生就是慢半拍。现在选了七门课，刚上了五门，已经觉得非常艰难了。想让时间停止，什么也不干，在床上躺一整天。明明昨天还是信心满满的。</p>
+<p>已经选的课没有一门想退，剩下一门跨院系的东方文学不知道选不选。据说是大水课，3k的期中论文，6k的期末论文，而且下学期不开。但是给分好像很玄学，课上很多中文系的同学，估计都很能写；课是外国语学院开的，据说他们的老师会给自己院系的学生更多的帮助，导致外院的给分明显比外院的好（绕口令2333）</p>
+<p>又感到自己成了小象，明明链子已经解开了，却不敢离开树桩。虽然还在坚持写东西，但是提到写论文还是心慌害怕，想起一个个不眠不休油米不进却什么也写不出来，在屏幕前枯坐的无激情的黎明。</p>
+<p>三点上完课，和 C 同学去旁听了外教开的哲学导论。陷入了以前时不时出现的游离状态，基本没听进去老师在讲什么，一直在发呆和看手机。</p>
+<p>今天读《流动的现代性》，看不进去，一晚上看了十几页，都不好意思提起。又想起以前看不懂文献的日子，想起三毛在《撒哈拉的故事》里写她考驾照的时候犯紧张，字好像蚂蚁在纸上爬。明明昨天听李康讲课是那么快乐，进入大学一年来，可能是第一次对 “我还能明白什么” “我还能学懂什么” 产生了希望。</p>
+<p>被深深的挫败所包围。过去的影子还是追上了我，只有影子追过来，那些快乐的感受很快就消失了，只有影子永恒存在。</p>
+<p>无论是上课、读文献还是写论文，都存在各种各样的问题。甚至现在已经不相信，自己学懂了什么，或者还有能力去学到什么。从物理转到哲学，我终究还是感到自己是个彻底的废物，一无所长。努力过了……这样对自己说。真的是这样吗。不，这样的我真的能做出什么吗。已经在文科院系了，转码估计也是类似的结果吧。已经没有退路了。已经没有退路了。</p>
+<p>比起上课，更接近于放空大脑呆呆坐着，或者看手机来逃避；比起读文献，更接近于反复读一段话，然后一而再再而三地读不懂；比起写论文，更接近于什么都不做，脑子停止运转，试图单凭在这里坐着就能写出东西。是啊，问题在这里：你的思考已经停止了。在战场上，脑子不动的人一定会死得很快。《马哲（上）》考出那样的分数，你心里也有数的吧，虽然看了很多马克思的原文，但是对于老师在讲什么以及PPT上的东西到底为什么那么写完全没有理解吧，最后也没有动脑，妄想着能靠背PPT这种机械的、连小学生都能干的低价值劳动获得辛苦分，然后被方博一眼看穿了吧。说起来，《中哲（下）》能拿89，不也是因为动脑筋了吗，领会了吗，明白杨立华在说什么了吗。必须思考，必须时刻运转，无量空处——（拖出去</p>
+<p>今天到底是怎么回事。一开始就没想好好听讲吧。文章不也一直在写吗，如果还有所怀疑的话就去写咕了很久的电锯人漫评啊那也算论文吧。《红拂夜奔》还没还吧，那个总能少害怕一点吧，试试看那个好了。减轻恐惧的方法有很多，恐惧产生的理由也可以逐个消除。你还是那个你，性格倔强，才华横溢，心想事成。</p>
+]]></content>
+      <tags>
+        <tag>随笔</tag>
       </tags>
   </entry>
   <entry>
@@ -345,6 +345,27 @@
       </tags>
   </entry>
   <entry>
+    <title>我把我的虚弱传递给你</title>
+    <url>/2021/09/13/%E6%88%91%E6%8A%8A%E6%88%91%E7%9A%84%E8%99%9A%E5%BC%B1%E4%BC%A0%E9%80%92%E7%BB%99%E4%BD%A0/</url>
+    <content><![CDATA[<p>-</p>
+<p>不信邪的人，终于还是选了《国外社会学学说（下）》。</p>
+<p>很矛盾，近乡情更怯，犹犹豫豫不敢选这门课，害怕真的 “学到” 点什么，害怕在课堂上受到触动，害怕听完课心中又有点那什么想法了。很遗憾，黄油面包的另一面没有绑一只永远四脚着地的猫，于是沾黄油的一面干脆利落地掉到了地上。</p>
+<span id="more"></span>
+
+<p>我没想到第一节就会讲鲍曼。</p>
+<p>李康老师讲鲍曼的个人经历，讲他如何失去一个个身份：苏联军队的军人，党员，波兰人的身份。有的是被动，有的是主动，但用 “失去” 应该没有错。他讲鲍曼的 “流亡” 概念（exile）。流亡，这两个字的发音是无奈和酸楚：没有固定的终点，也没有固定的家园……</p>
+<p>我有一刻感到彷徨，另一刻又感到骄傲，我想，在座的一百七十个学生里，应该没有人比我更对 “流亡” 两个字心有戚戚焉。我忍不住想讨论我自己，我是如何失去一个个身份：首先失去了性别，其次失去了我的学校，失去了我的故乡和我的家……我没有性别，也没有家乡。</p>
+<p>但话题没有终结于此。我明白了所有人都处于流亡之中，而且这流亡可能并非主动的选择；“问题在于如何将（我们无所作为的）fate重塑为 destiny（属于我们的选择与责任）”。我明白了流亡的另一面是不为共同体所束缚，共同体让人变得单调，而我终将在多元的共同体中始终怀有开放和包容；我明白了好的共同体并不希望束缚某一个个体，它完善我的一部分，而不要求我的全部。我惊讶于此，惊讶于 ”流亡“ 两个字也能给在座的新生们以力量。</p>
+<p>我明白了个体的体验同样重要，我完全可以从我的心中看到世界的灵魂。</p>
+<p>课上提到鲍曼的一次演讲，Culture, Value and Science of Society。“要么给无力者以力量，要么允许自己保持无力，以领会自身存在。”</p>
+<p> 我忽然想起以前看《政治的人生》，王那谁谁写他一个学生写的话：“我把我的虚弱传递给你。” 可能没什么关系，但我就是忽然想起。</p>
+<p>今天请容我诗意地栖居。请允许我当一天诗人吧。</p>
+]]></content>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>我最难过的时候写下的东西</title>
     <url>/2021/09/08/%E6%88%91%E6%9C%80%E9%9A%BE%E8%BF%87%E7%9A%84%E6%97%B6%E5%80%99%E5%86%99%E4%B8%8B%E7%9A%84%E4%B8%9C%E8%A5%BF/</url>
     <content><![CDATA[<p>2019/03/08补档。</p>
@@ -439,46 +460,6 @@
       </tags>
   </entry>
   <entry>
-    <title>我把我的虚弱传递给你</title>
-    <url>/2021/09/13/%E6%88%91%E6%8A%8A%E6%88%91%E7%9A%84%E8%99%9A%E5%BC%B1%E4%BC%A0%E9%80%92%E7%BB%99%E4%BD%A0/</url>
-    <content><![CDATA[<p>-</p>
-<p>不信邪的人，终于还是选了《国外社会学学说（下）》。</p>
-<p>很矛盾，近乡情更怯，犹犹豫豫不敢选这门课，害怕真的 “学到” 点什么，害怕在课堂上受到触动，害怕听完课心中又有点那什么想法了。很遗憾，黄油面包的另一面没有绑一只永远四脚着地的猫，于是沾黄油的一面干脆利落地掉到了地上。</p>
-<span id="more"></span>
-
-<p>我没想到第一节就会讲鲍曼。</p>
-<p>李康老师讲鲍曼的个人经历，讲他如何失去一个个身份：苏联军队的军人，党员，波兰人的身份。有的是被动，有的是主动，但用 “失去” 应该没有错。他讲鲍曼的 “流亡” 概念（exile）。流亡，这两个字的发音是无奈和酸楚：没有固定的终点，也没有固定的家园……</p>
-<p>我有一刻感到彷徨，另一刻又感到骄傲，我想，在座的一百七十个学生里，应该没有人比我更对 “流亡” 两个字心有戚戚焉。我忍不住想讨论我自己，我是如何失去一个个身份：首先失去了性别，其次失去了我的学校，失去了我的故乡和我的家……我没有性别，也没有家乡。</p>
-<p>但话题没有终结于此。我明白了所有人都处于流亡之中，而且这流亡可能并非主动的选择；“问题在于如何将（我们无所作为的）fate重塑为 destiny（属于我们的选择与责任）”。我明白了流亡的另一面是不为共同体所束缚，共同体让人变得单调，而我终将在多元的共同体中始终怀有开放和包容；我明白了好的共同体并不希望束缚某一个个体，它完善我的一部分，而不要求我的全部。我惊讶于此，惊讶于 ”流亡“ 两个字也能给在座的新生们以力量。</p>
-<p>我明白了个体的体验同样重要，我完全可以从我的心中看到世界的灵魂。</p>
-<p>课上提到鲍曼的一次演讲，Culture, Value and Science of Society。“要么给无力者以力量，要么允许自己保持无力，以领会自身存在。”</p>
-<p> 我忽然想起以前看《政治的人生》，王那谁谁写他一个学生写的话：“我把我的虚弱传递给你。” 可能没什么关系，但我就是忽然想起。</p>
-<p>今天请容我诗意地栖居。请允许我当一天诗人吧。</p>
-]]></content>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>谁给你最大的钻石谁就最爱你</title>
-    <url>/2021/09/18/%E8%B0%81%E7%BB%99%E4%BD%A0%E6%9C%80%E5%A4%A7%E7%9A%84%E9%92%BB%E7%9F%B3%E8%B0%81%E5%B0%B1%E6%9C%80%E7%88%B1%E4%BD%A0/</url>
-    <content><![CDATA[<p>-</p>
-<span id="more"></span>
-
-<p>在当代，一种陈腔滥调是这样的：在商品化和资本主义的浪潮下，人的信仰已经瓦解了，道德已经丧失了。诸如此类的话语，仿佛描绘了一个礼崩乐坏、寡义鲜耻的时代。</p>
-<p>可是当世界右转，当保守化的浪潮袭来得越发汹涌，我们惊讶地发现，保守化的道德重新占据了高位，而这与我们的商品化和市场化完美地缝合在了一起：我谨举一些最好想的例子，如明星要求完美、小说主角要求 “双洁”、游戏主创不能辱女、服装品牌不能乳❀……不，我不是在说这些事情是对或者错，应该或者不应该的话我已经说腻了，我只想和你聊聊为什么，或者和你谈谈疲惫。我只想问问 ”道德“ 这样一种私人化的字眼是如何变成某个圈子里公众化的规训，这种规训生效的机制是怎样的。</p>
-<p>芜湖，现在你看到了……是名为 “消费者的权利” 的东西在起作用。我们毕竟还是相信消费者能用脚投票，能用脚投出一个自己想要的世界。曾经我们相信对消费者吸引力最大的是质量或者性价比或者任何起码和商品相关的东西，现在我们犹豫于这一点。当然不是每个人都有宁可饿死的决心和勇气，但是当选择多起来的时候质量就不是唯一的因素，就像奢侈品的客户可能更看重的是SA对自己的态度好不好，甚至多于自己是否喜欢那件新品。</p>
-<p>小偶像太多了，你知道的，一个人的唱跳演技都过关的时候，公司会让她出道做歌手或者演员而不是偶像，你知道她们多多少少都有瑕疵，水平都差不多……于是你选择最顺从自己心意的这一个，而不是唱歌跳舞最过关的那一个。</p>
-<p>金钱可以摧毁人的道德，也可以约束人的道德。但是我相信对道德的苛求已经打破了原有的商业逻辑……卖雪糕的定价不是靠成本费，而是靠广告费；买雪糕也不看好不好吃（雪糕的口感，差不多得了……），而是看够不够 “互联网”：拍照好看吗？包装好看吗？大家都在吃吗？创始人道德吗？</p>
-<p>我受够这群逼人了，我只想吃五毛钱一根的小布丁。</p>
-<p>-</p>
-<p>-</p>
-]]></content>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>日记20210907</title>
     <url>/2021/09/07/%E6%97%A5%E8%AE%B020210907/</url>
     <content><![CDATA[<p>严格意义上来说这应该算我写的第一篇博文？好不容易把这个网站搞出来了……</p>
@@ -514,6 +495,25 @@
 <p>诶感觉我这个状态特别像出师表：“临表涕零，不知所言。”</p>
 <p>最后整理一下我建站用的参考：</p>
 <p><font size=2>基本步骤，超详细：<a href="https://www.zhihu.com/column/c_1201860091307458560">https://www.zhihu.com/column/c_1201860091307458560</a></font><br><font size=2>git安装路径相关：<a href="https://blog.csdn.net/oschina_41767564/article/details/104768735">https://blog.csdn.net/oschina_41767564/article/details/104768735</a></font><br><font size=2>git安装路径相关: <a href="https://blog.csdn.net/oschina_41767564/article/details/104768735">https://blog.csdn.net/oschina_41767564/article/details/104768735</a></font><br><font size=2>git报错1: <a href="https://www.cnblogs.com/m0re/p/14270025.html">https://www.cnblogs.com/m0re/p/14270025.html</a></font><br><font size=2>git报错2: <a href="https://blog.csdn.net/weixin_33863087/article/details/88723769">https://blog.csdn.net/weixin_33863087/article/details/88723769</a></font><br><font size=2>git config基本操作: <a href="https://blog.csdn.net/themagickeyjianan/article/details/79683980">https://blog.csdn.net/themagickeyjianan/article/details/79683980</a></font><br><font size=2>cnpm安卸: <a href="https://blog.csdn.net/p930318/article/details/105294810?utm_term=cnpm%E5%8D%B8%E8%BD%BD%E5%8C%85&amp;utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-6-105294810&amp;spm=3001.4430">https://blog.csdn.net/p930318/article/details/105294810?utm_term=cnpm%E5%8D%B8%E8%BD%BD%E5%8C%85&amp;utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-6-105294810&amp;spm=3001.4430</a></font><br><font size=2>git仓库第一次提交时会遇到的新问题，必看: <a href="https://blog.csdn.net/weixin_41010198/article/details/119698015">https://blog.csdn.net/weixin_41010198/article/details/119698015</a></font><br><font size=2>另一个没用到的教程: <a href="https://www.cnblogs.com/m0re/p/14270025.html">https://www.cnblogs.com/m0re/p/14270025.html</a></font><br><font size=2>hexo写文章: <a href="https://zhuanlan.zhihu.com/p/156915260">https://zhuanlan.zhihu.com/p/156915260</a></font><br><font size=2>typora使用指南: <a href="https://sspai.com/post/54912/">https://sspai.com/post/54912/</a></font><br><font size=2>typora插入图片路径问题: <a href="https://www.jianshu.com/p/ff2a99dd3903">https://www.jianshu.com/p/ff2a99dd3903</a></font><br><font size=2>颜色调整：<a href="https://www.jianshu.com/p/ad0d867a8cb6">https://www.jianshu.com/p/ad0d867a8cb6</a></font><br><font size=2>侧边栏字体颜色及插入图片：<a href="https://blog.csdn.net/weixin_44543463/article/details/119749738">https://blog.csdn.net/weixin_44543463/article/details/119749738</a></font><br><font size=2>动态背景：<a href="https://www.cnblogs.com/Luweir/p/14147344.html">https://www.cnblogs.com/Luweir/p/14147344.html</a></font><br><font size=2>全文字体调整（注意px和em之间的换算）：<a href="https://www.jianshu.com/p/ad0d867a8cb6">https://www.jianshu.com/p/ad0d867a8cb6</a></font><br><font size=2>文内字体大小调整：<a href="https://blog.csdn.net/qq_41261251/article/details/102817673">https://blog.csdn.net/qq_41261251/article/details/102817673</a></font><br><font size=2>首页文章间距：<a href="https://blog.csdn.net/weixin_42024255/article/details/82814433">https://blog.csdn.net/weixin_42024255/article/details/82814433</a></font></p>
+]]></content>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>谁给你最大的钻石谁就最爱你</title>
+    <url>/2021/09/18/%E8%B0%81%E7%BB%99%E4%BD%A0%E6%9C%80%E5%A4%A7%E7%9A%84%E9%92%BB%E7%9F%B3%E8%B0%81%E5%B0%B1%E6%9C%80%E7%88%B1%E4%BD%A0/</url>
+    <content><![CDATA[<p>-</p>
+<span id="more"></span>
+
+<p>在当代，一种陈腔滥调是这样的：在商品化和资本主义的浪潮下，人的信仰已经瓦解了，道德已经丧失了。诸如此类的话语，仿佛描绘了一个礼崩乐坏、寡义鲜耻的时代。</p>
+<p>可是当世界右转，当保守化的浪潮袭来得越发汹涌，我们惊讶地发现，保守化的道德重新占据了高位，而这与我们的商品化和市场化完美地缝合在了一起：我谨举一些最好想的例子，如明星要求完美、小说主角要求 “双洁”、游戏主创不能辱女、服装品牌不能乳❀……不，我不是在说这些事情是对或者错，应该或者不应该的话我已经说腻了，我只想和你聊聊为什么，或者和你谈谈疲惫。我只想问问 ”道德“ 这样一种私人化的字眼是如何变成某个圈子里公众化的规训，这种规训生效的机制是怎样的。</p>
+<p>芜湖，现在你看到了……是名为 “消费者的权利” 的东西在起作用。我们毕竟还是相信消费者能用脚投票，能用脚投出一个自己想要的世界。曾经我们相信对消费者吸引力最大的是质量或者性价比或者任何起码和商品相关的东西，现在我们犹豫于这一点。当然不是每个人都有宁可饿死的决心和勇气，但是当选择多起来的时候质量就不是唯一的因素，就像奢侈品的客户可能更看重的是SA对自己的态度好不好，甚至多于自己是否喜欢那件新品。</p>
+<p>小偶像太多了，你知道的，一个人的唱跳演技都过关的时候，公司会让她出道做歌手或者演员而不是偶像，你知道她们多多少少都有瑕疵，水平都差不多……于是你选择最顺从自己心意的这一个，而不是唱歌跳舞最过关的那一个。</p>
+<p>金钱可以摧毁人的道德，也可以约束人的道德。但是我相信对道德的苛求已经打破了原有的商业逻辑……卖雪糕的定价不是靠成本费，而是靠广告费；买雪糕也不看好不好吃（雪糕的口感，差不多得了……），而是看够不够 “互联网”：拍照好看吗？包装好看吗？大家都在吃吗？创始人道德吗？</p>
+<p>我受够这群逼人了，我只想吃五毛钱一根的小布丁。</p>
+<p>-</p>
+<p>-</p>
 ]]></content>
       <tags>
         <tag>随笔</tag>
