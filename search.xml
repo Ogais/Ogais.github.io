@@ -1,44 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/09/07/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>发发牢骚</title>
-    <url>/2021/10/09/%E5%8F%91%E5%8F%91%E7%89%A2%E9%AA%9A/</url>
-    <content><![CDATA[<p>-</p>
-<p>人在与他人的交往中确立自身。</p>
-<p>但是，总有人在与他人的交往中否定自身……说的就是我。</p>
-<span id="more"></span>
-
-<p>我想不明白，为什么会有人每一句话、每一个动作都能精准踩到我的雷点。我看着他就感到我前二十年的人生都被否定了。不要在公共场合外放音乐，不要公开讨论政治、时事或者任何敏感的话题，不要显示自己的家境，那样是没有教养的行为——我从小受到的就是这样的教育。但是就是有人能毫无知觉地做出以上所有的行为。但更为悲哀的是我发现我灵魂中的缺陷之处，我发现我的灵魂面对他是如此易怒、易羞愧、易激动，是如此的自大、傲慢、虚荣。我不知道我为什么愤怒，是因为这样的行为损害了我吗，还是因为他 “违反了我的世界中的规则” ？这些行为真的妨碍到我了吗？还是说我的世界中有如此多不堪任何挑战的规则？</p>
-<p>电子算命的话，我本人te fe双残疾……容易陷入情绪中无法自拔，又沉迷于指定种种几乎不可能完成的条条框框。这是病，得治……。</p>
-<p>我看着他仿佛在看一个不学无术、自私自大、缺乏教养的暴发户，他看我呢？管他怎么看我，傻逼。我的理智裂开了，站在上帝视角的那半个告诉我我们都无罪，站在 “我” —— 我从来没有这么清楚地感受到自我意识的存在 —— 这边的半个对他已经到了忍无可忍的地步，无论是从学识上还是教养上，这半个理性都给了我充足的厌恶他的理由。</p>
-<p>为什么痛苦他永无止境。</p>
-<p>在他面前我认识到 “我” 是 “我” —— 有个人偏好和厌恶的一个自我意识。我讨厌这个。我无时无刻不在梦想着意识上传，电子飞升。我讨厌被提醒的感觉。</p>
-<p>-</p>
-<p>-</p>
-]]></content>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>你会为混纺的我感到羞耻吗？</title>
     <url>/2021/09/11/%E4%BD%A0%E4%BC%9A%E4%B8%BA%E6%B7%B7%E7%BA%BA%E7%9A%84%E6%88%91%E6%84%9F%E5%88%B0%E7%BE%9E%E8%80%BB%E5%90%97%EF%BC%9F/</url>
     <content><![CDATA[<p>-</p>
@@ -68,6 +30,24 @@
       <tags>
         <tag>随笔</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/09/07/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
   </entry>
   <entry>
     <title>1980年代改革的高层格局（下）</title>
@@ -143,36 +123,23 @@
       </tags>
   </entry>
   <entry>
-    <title>君建个人博客本当上手</title>
-    <url>/2021/09/08/%E5%90%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%9C%AC%E5%BD%93%E4%B8%8A%E6%89%8B/</url>
-    <content><![CDATA[<p>终于！算是搞定了！以后应该不会再有大改了（大概）</p>
-<p>这篇写一些建个人博客的感想，以及附上我建到现在使用的教程大合集，如果有友友想自己建博客欢迎来参考^_^</p>
+    <title>发发牢骚</title>
+    <url>/2021/10/09/%E5%8F%91%E5%8F%91%E7%89%A2%E9%AA%9A/</url>
+    <content><![CDATA[<p>-</p>
+<p>人在与他人的交往中确立自身。</p>
+<p>但是，总有人在与他人的交往中否定自身……说的就是我。</p>
 <span id="more"></span>
 
-<p>唯一的问题就是，hexo d 灵不灵是个问题……往往写好一篇博客要提交两三遍才可以。真是写文五分钟提交两小时（夸张的说法……）。现在稍微有点后悔没直接用 wordpress。不过 wordpress 好像要买云服务器，还要实名备案，好麻烦，好贵。而且hexo似乎相对更灵活一点，功能更多？虽然这并不能掩盖我大部分功能都不会用到的事实。</p>
-<p>-</p>
-<p>最开始是受够了微信公众号的河蟹规则了。看着身边友友写文章，发公众号一遍，自己在其他平台上再备份一遍，就像郭德纲说相声，有钱人买油条是吧，吃一根丢一根。何苦呢何苦呢……虽然我不是什么嬉皮士，但可以有一些退出当代生活的行为，比如离开公众号平台。</p>
-<p>有一说一咱是良民，一不搞簧（大概）二不涉政，只是希望能尽可能少地被琐事分割精力，就像咱道歉往往也不是因为认为自己错了，而是希望尽快哄好对方，让对方别来找咱事一样…… 作为一个日子人，“已经是个好人了” ！</p>
-<p>加速加到最后就是重开，这里看漫画需要买实体书而不是和谐过的叔叔版，看动画需要下字幕组资源而不是蹲线上不知道什么时候才能过审的新番，人与人交流靠线下的交谈而不是随时会被查水表的微信，日记写在日记本上而不是朋友圈，个人发布在私人博客上而不是公众号。欢迎来到旧世界！</p>
-<p>-</p>
-<p>Welcome to the new world… </p>
-<p>I say welcome to the me world. </p>
-<p>Are we rushing like the wind? </p>
-<p>Naked out and naked in…</p>
-<p>-</p>
-<p>在永夜的暴风雪中，旅人在篝火熄灭后就离开，寻找新的光源。</p>
-<p>即使暴风雪从不停止。</p>
-<p>（好中二……。）</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p><strong>建 站 参 考：</strong></p>
-<p><font size=2>基本步骤，超详细：<a href="https://www.zhihu.com/column/c_1201860091307458560">https://www.zhihu.com/column/c_1201860091307458560</a></font><br><font size=2>git安装路径相关：<a href="https://blog.csdn.net/oschina_41767564/article/details/104768735">https://blog.csdn.net/oschina_41767564/article/details/104768735</a></font><br><font size=2>git安装路径相关: <a href="https://blog.csdn.net/oschina_41767564/article/details/104768735">https://blog.csdn.net/oschina_41767564/article/details/104768735</a></font><br><font size=2>git报错: <a href="https://www.cnblogs.com/m0re/p/14270025.html">https://www.cnblogs.com/m0re/p/14270025.html</a></font><br><font size=2>git报错error 10520: <a href="https://blog.csdn.net/weixin_33863087/article/details/88723769">https://blog.csdn.net/weixin_33863087/article/details/88723769</a></font><br><font size=2>hexo报错spwan failed问题：<a href="https://www.cnblogs.com/cairbin/p/14957855.html">https://www.cnblogs.com/cairbin/p/14957855.html</a></font><br><font size=2>git config基本操作: <a href="https://blog.csdn.net/themagickeyjianan/article/details/79683980">https://blog.csdn.net/themagickeyjianan/article/details/79683980</a></font><br><font size=2>cnpm安卸: <a href="https://blog.csdn.net/p930318/article/details/105294810?utm_term=cnpm%E5%8D%B8%E8%BD%BD%E5%8C%85&amp;utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-6-105294810&amp;spm=3001.4430">https://blog.csdn.net/p930318/article/details/105294810?utm_term=cnpm%E5%8D%B8%E8%BD%BD%E5%8C%85&amp;utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-6-105294810&amp;spm=3001.4430</a></font><br><font size=2>git仓库第一次提交时会遇到的新问题，必看: <a href="https://blog.csdn.net/weixin_41010198/article/details/119698015">https://blog.csdn.net/weixin_41010198/article/details/119698015</a></font><br><font size=2>另一个没用到的教程: <a href="https://www.cnblogs.com/m0re/p/14270025.html">https://www.cnblogs.com/m0re/p/14270025.html</a></font><br><font size=2>hexo写文章: <a href="https://zhuanlan.zhihu.com/p/156915260">https://zhuanlan.zhihu.com/p/156915260</a></font><br><font size=2>typora使用指南: <a href="https://sspai.com/post/54912/">https://sspai.com/post/54912/</a></font><br><font size=2>typora插入图片路径问题: <a href="https://www.jianshu.com/p/ff2a99dd3903">https://www.jianshu.com/p/ff2a99dd3903</a></font><br><font size=2>颜色调整：<a href="https://www.jianshu.com/p/ad0d867a8cb6">https://www.jianshu.com/p/ad0d867a8cb6</a></font><br><font size=2>侧边栏字体颜色及插入图片：<a href="https://blog.csdn.net/weixin_44543463/article/details/119749738">https://blog.csdn.net/weixin_44543463/article/details/119749738</a></font><br><font size=2>动态背景：<a href="https://www.cnblogs.com/Luweir/p/14147344.html">https://www.cnblogs.com/Luweir/p/14147344.html</a></font><br><font size=2>全文字体调整（注意px和em之间的换算）：<a href="https://www.jianshu.com/p/ad0d867a8cb6">https://www.jianshu.com/p/ad0d867a8cb6</a></font><br><font size=2>文内字体大小调整：<a href="https://blog.csdn.net/qq_41261251/article/details/102817673">https://blog.csdn.net/qq_41261251/article/details/102817673</a></font><br><font size=2>首页文章间距：<a href="https://blog.csdn.net/weixin_42024255/article/details/82814433">https://blog.csdn.net/weixin_42024255/article/details/82814433</a></font><br>-</p>
+<p>我想不明白，为什么会有人每一句话、每一个动作都能精准踩到我的雷点。我看着他就感到我前二十年的人生都被否定了。不要在公共场合外放音乐，不要公开讨论政治、时事或者任何敏感的话题，不要显示自己的家境，那样是没有教养的行为——我从小受到的就是这样的教育。但是就是有人能毫无知觉地做出以上所有的行为。但更为悲哀的是我发现我灵魂中的缺陷之处，我发现我的灵魂面对他是如此易怒、易羞愧、易激动，是如此的自大、傲慢、虚荣。我不知道我为什么愤怒，是因为这样的行为损害了我吗，还是因为他 “违反了我的世界中的规则” ？这些行为真的妨碍到我了吗？还是说我的世界中有如此多不堪任何挑战的规则？</p>
+<p>电子算命的话，我本人te fe双残疾……容易陷入情绪中无法自拔，又沉迷于指定种种几乎不可能完成的条条框框。这是病，得治……。</p>
+<p>我看着他仿佛在看一个不学无术、自私自大、缺乏教养的暴发户，他看我呢？管他怎么看我，傻逼。我的理智裂开了，站在上帝视角的那半个告诉我我们都无罪，站在 “我” —— 我从来没有这么清楚地感受到自我意识的存在 —— 这边的半个对他已经到了忍无可忍的地步，无论是从学识上还是教养上，这半个理性都给了我充足的厌恶他的理由。</p>
+<p>为什么痛苦他永无止境。</p>
+<p>在他面前我认识到 “我” 是 “我” —— 有个人偏好和厌恶的一个自我意识。我讨厌这个。我无时无刻不在梦想着意识上传，电子飞升。我讨厌被提醒的感觉。</p>
 <p>-</p>
 <p>-</p>
 ]]></content>
       <tags>
-        <tag>技术</tag>
+        <tag>随笔</tag>
       </tags>
   </entry>
   <entry>
@@ -205,45 +172,36 @@
       </tags>
   </entry>
   <entry>
-    <title>天空一无所有，为何给我安慰</title>
-    <url>/2021/09/25/%E5%A4%A9%E7%A9%BA%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89%EF%BC%8C%E4%B8%BA%E4%BD%95%E7%BB%99%E6%88%91%E5%AE%89%E6%85%B0/</url>
-    <content><![CDATA[<p>-</p>
-<p>今天拉丁语学动词变位，结果听歌看评论区第一条就是这：</p>
-<p><img src="%E7%BD%91%E6%98%93%E4%BA%91%E8%AF%84%E8%AE%BA.jpeg"></p>
-<p>看到瞬间眼前一黑。特别是 “第一人称 复数 现在 主动 陈述句”，味儿太正了。<br>放过我吧……OTZ</p>
+    <title>君建个人博客本当上手</title>
+    <url>/2021/09/08/%E5%90%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%9C%AC%E5%BD%93%E4%B8%8A%E6%89%8B/</url>
+    <content><![CDATA[<p>终于！算是搞定了！以后应该不会再有大改了（大概）</p>
+<p>这篇写一些建个人博客的感想，以及附上我建到现在使用的教程大合集，如果有友友想自己建博客欢迎来参考^_^</p>
 <span id="more"></span>
 
+<p>唯一的问题就是，hexo d 灵不灵是个问题……往往写好一篇博客要提交两三遍才可以。真是写文五分钟提交两小时（夸张的说法……）。现在稍微有点后悔没直接用 wordpress。不过 wordpress 好像要买云服务器，还要实名备案，好麻烦，好贵。而且hexo似乎相对更灵活一点，功能更多？虽然这并不能掩盖我大部分功能都不会用到的事实。</p>
 <p>-</p>
-<p>一些被遗弃猫的怪故事。</p>
-<p>第一只猫是布偶猫。猫很好看，但是毛稀稀拉拉的，子宫蓄脓已经是晚期。去了医院也没治好，就这么死去了。猫主人应该花了大价钱买猫，但甚至没有给它做绝育，直到后果严重到无法弥补，就把猫遗弃了。舍得买猫却不知道怎么养猫的人，真奇怪。</p>
-<p>第二只猫出现于贵鄙校校内，两天前出现的。耳后有一块很吓人的创伤面，有眼部炎症。根据花色我称之为狸花加白太君。太君嘴挑，不吃猫粮，只吃猫条。把猫条挤到猫粮上，埋头吨吨吨，我以为能吃点粮，结果猫走了一看剩下的粮，上面猫条的痕迹干干净净。太君晚饭一顿吃了三个猫条，这是什么奢侈的猫生啊（战术后仰）</p>
-<p>第三只是在海景壹号的故事。小猫，带回去几天了，抓人，家长说：“还是自由适合它！” 遂丢猫于家门外（物理意义）……是的就丢楼下了。猫很亲人，看见原来养它的小孩子还会上去贴贴。求小孩心理阴影面积。</p>
+<p>最开始是受够了微信公众号的河蟹规则了。看着身边友友写文章，发公众号一遍，自己在其他平台上再备份一遍，就像郭德纲说相声，有钱人买油条是吧，吃一根丢一根。何苦呢何苦呢……虽然我不是什么嬉皮士，但可以有一些退出当代生活的行为，比如离开公众号平台。</p>
+<p>有一说一咱是良民，一不搞簧（大概）二不涉政，只是希望能尽可能少地被琐事分割精力，就像咱道歉往往也不是因为认为自己错了，而是希望尽快哄好对方，让对方别来找咱事一样…… 作为一个日子人，“已经是个好人了” ！</p>
+<p>加速加到最后就是重开，这里看漫画需要买实体书而不是和谐过的叔叔版，看动画需要下字幕组资源而不是蹲线上不知道什么时候才能过审的新番，人与人交流靠线下的交谈而不是随时会被查水表的微信，日记写在日记本上而不是朋友圈，个人发布在私人博客上而不是公众号。欢迎来到旧世界！</p>
 <p>-</p>
-<p>口疮严重。舌两侧各一，咽喉上部一，舌右侧尤甚，黄豆大小。</p>
-<p>胡思乱想。口疮也是一个隐喻，长久的负面情绪（火气）无法发泄，积蓄久了就会破坏组织，带来说话（输出）和吃饭（输入）的困难，以及可以忍受但是持续的疼痛，受到刺激就会变成剧痛。这么说起来蛮……神棍的。这就去学塔罗占卜！（不）</p>
+<p>Welcome to the new world… </p>
+<p>I say welcome to the me world. </p>
+<p>Are we rushing like the wind? </p>
+<p>Naked out and naked in…</p>
 <p>-</p>
-<p>我清楚地意识到自己身上的矛盾之处。我反复告诉自己，我能依靠的只有我自己。“像我这种没钱又没权的家庭，我能靠的只有自己的脑子啦！” 但是我不断意识到自己到底身处于怎样的家庭之中。一种不怎么需要花钱也能不费力地安然生活的时间，其实早就在暗中告诉了我，这已经意味着很好的家庭条件了……虽然但是，我没有办法接受一些事实，我心中我爸妈还是两个既没有选择香港也没有选择北京跑到养老城市安度余生的穷高知。我看到超过五十元的上衣和裤子，还是会觉得难以接受；点餐时会反复掂量这个菜能不能自己家做出来，能就不点了吧。我很少有需要花钱的娱乐，无论是酒、电影还是电子游戏，或者是景区的门票。我为这种简朴……起码自己觉得简朴的生活方式感到骄傲，我在群山中而不是城市里感到安心。</p>
-<p>但我也在西单的大悦城中感到另一种情感，愉悦的、暂时满足的，就像平手唱涩谷PARCO的时候闪闪发光。虽然那不是安心。我看到其他人消费的时候还是会责怪自己的消费观（你怎么可以觉得这个贵呢，又不是买不起）。我痛恨北京，即使这个城市没有过错，我也一样痛恨它。</p>
-<p>我来北京以前，印象中的北京人尊贵、油滑、八面玲珑，毫无真诚可言。当然现在不这样了。我来北京的第一年过得很糟糕。我无法接受北京小孩可以一个班只有二十八个人，每天三四点（是我记错了吗？）放学，上课还一个个都低头玩手机。每个教室都崭新得像刚建好一样，配备空调和大照明灯，顶楼还有苹果电脑（虽然从来没用过）。我想起我在烟台读书的时候，一个班六十个学生，时常有人因为学不明白、因为成绩退步而哭泣，想起头顶嗡嗡的粘稠的电风扇，和两根链子吊起来的摇摇欲坠的灯管。想起被同学一脚就踢掉的门，想起投影仪幕布降下来每次都有等好久。世界上怎么会有人如此的不努力还如此的快乐呢，这些在我原来学校最混子的混子们怎么能享受这样的生活呢，为什么我有金子一样真诚心肠的同学们不能过这样的学校生活，为什么啊！凭什么啊！我想起婷姐，热爱民国装束的语文老师，想起她的洒脱和热情，想起问 “这道题，会还是不会” 的秃头数学老师，想起给我们看蛔虫宝还提醒我们中午别吃面条（……）、上课和我们一起起哄的生物老师，长得像鳌拜加马克思的严肃历史老师，一本正经但是会给我们放动画片看的政治老师。我知道每个老师都是生命中的贵人，我也能感受到老师们都真心希望我们快乐，但有的老师业务能力真实差劲，而且似乎并不热衷于学生成绩的进步（废话，太子怎么需要知识改变命运……。）</p>
-<p>我曾经想，你们不努力我努力，我要努力上学，我要靠自己活出精彩的人生，后来才渐渐领悟到，有的人根本不需要这样的努力就已经可以衣食无忧了，而且也没有什么追求。我曾经想，我活着是为了改变世界……是为了被我背叛的故乡，是为了让所有孩子都可以拥有好的教育，像芒果街上那个人，“我走出来是为了回去”。我活着是为了让我的名字被千万人传颂，直到千万年后仍然不朽。</p>
-<p>但是我也觉得劳累……同时我感到空虚。我意识到人们过得很好，各得其所。我意识到每个人都有自己的命运。而我没有什么可以做的，我没有什么可以帮助别人的能量，以让他们记住自己的名字。我也没有邪恶的冲动，让我恶名长久流传。我在哪里呢，千万人中，我的梦又是什么呢。</p>
-<p>我有时觉得自己已经返回了儿童的某些状态。我渴望给事物命名。我有时通过自身认识世界。发生了什么？到底怎么了？为什么会发生？</p>
+<p>在永夜的暴风雪中，旅人在篝火熄灭后就离开，寻找新的光源。</p>
+<p>即使暴风雪从不停止。</p>
+<p>（好中二……。）</p>
 <p>-</p>
-<p>人不应该这样活着。</p>
-<p>筋疲力尽是时代的症状，它普遍地降临于每一个人身上。</p>
-<p>上班之外的时间是留给自己的，不是用来补偿过劳的。八小时活成十小时，那剩下的八小时就全用来弥补而不是建立，治愈而不是生长。</p>
 <p>-</p>
-<p>我……我想，</p>
-<p>我在这里的天命，</p>
-<p>就是给所有的言不由衷，和所有的词不达意，以它们本来的样子。</p>
-<p>我想给予它们名字。这就是我存在于此的天命。</p>
-<p>椰子树，不要为我哭泣。</p>
-<p>法蒂玛，不要为我哭泣。</p>
+<p>-</p>
+<p><strong>建 站 参 考：</strong></p>
+<p><font size=2>基本步骤，超详细：<a href="https://www.zhihu.com/column/c_1201860091307458560">https://www.zhihu.com/column/c_1201860091307458560</a></font><br><font size=2>git安装路径相关：<a href="https://blog.csdn.net/oschina_41767564/article/details/104768735">https://blog.csdn.net/oschina_41767564/article/details/104768735</a></font><br><font size=2>git安装路径相关: <a href="https://blog.csdn.net/oschina_41767564/article/details/104768735">https://blog.csdn.net/oschina_41767564/article/details/104768735</a></font><br><font size=2>git报错: <a href="https://www.cnblogs.com/m0re/p/14270025.html">https://www.cnblogs.com/m0re/p/14270025.html</a></font><br><font size=2>git报错error 10520: <a href="https://blog.csdn.net/weixin_33863087/article/details/88723769">https://blog.csdn.net/weixin_33863087/article/details/88723769</a></font><br><font size=2>hexo报错spwan failed问题：<a href="https://www.cnblogs.com/cairbin/p/14957855.html">https://www.cnblogs.com/cairbin/p/14957855.html</a></font><br><font size=2>git config基本操作: <a href="https://blog.csdn.net/themagickeyjianan/article/details/79683980">https://blog.csdn.net/themagickeyjianan/article/details/79683980</a></font><br><font size=2>cnpm安卸: <a href="https://blog.csdn.net/p930318/article/details/105294810?utm_term=cnpm%E5%8D%B8%E8%BD%BD%E5%8C%85&amp;utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-6-105294810&amp;spm=3001.4430">https://blog.csdn.net/p930318/article/details/105294810?utm_term=cnpm%E5%8D%B8%E8%BD%BD%E5%8C%85&amp;utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-6-105294810&amp;spm=3001.4430</a></font><br><font size=2>git仓库第一次提交时会遇到的新问题，必看: <a href="https://blog.csdn.net/weixin_41010198/article/details/119698015">https://blog.csdn.net/weixin_41010198/article/details/119698015</a></font><br><font size=2>另一个没用到的教程: <a href="https://www.cnblogs.com/m0re/p/14270025.html">https://www.cnblogs.com/m0re/p/14270025.html</a></font><br><font size=2>hexo写文章: <a href="https://zhuanlan.zhihu.com/p/156915260">https://zhuanlan.zhihu.com/p/156915260</a></font><br><font size=2>typora使用指南: <a href="https://sspai.com/post/54912/">https://sspai.com/post/54912/</a></font><br><font size=2>typora插入图片路径问题: <a href="https://www.jianshu.com/p/ff2a99dd3903">https://www.jianshu.com/p/ff2a99dd3903</a></font><br><font size=2>颜色调整：<a href="https://www.jianshu.com/p/ad0d867a8cb6">https://www.jianshu.com/p/ad0d867a8cb6</a></font><br><font size=2>侧边栏字体颜色及插入图片：<a href="https://blog.csdn.net/weixin_44543463/article/details/119749738">https://blog.csdn.net/weixin_44543463/article/details/119749738</a></font><br><font size=2>动态背景：<a href="https://www.cnblogs.com/Luweir/p/14147344.html">https://www.cnblogs.com/Luweir/p/14147344.html</a></font><br><font size=2>全文字体调整（注意px和em之间的换算）：<a href="https://www.jianshu.com/p/ad0d867a8cb6">https://www.jianshu.com/p/ad0d867a8cb6</a></font><br><font size=2>文内字体大小调整：<a href="https://blog.csdn.net/qq_41261251/article/details/102817673">https://blog.csdn.net/qq_41261251/article/details/102817673</a></font><br><font size=2>首页文章间距：<a href="https://blog.csdn.net/weixin_42024255/article/details/82814433">https://blog.csdn.net/weixin_42024255/article/details/82814433</a></font><br>-</p>
 <p>-</p>
 <p>-</p>
 ]]></content>
       <tags>
-        <tag>随笔</tag>
+        <tag>技术</tag>
       </tags>
   </entry>
   <entry>
@@ -315,6 +273,48 @@
 ]]></content>
       <tags>
         <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>天空一无所有，为何给我安慰</title>
+    <url>/2021/09/25/%E5%A4%A9%E7%A9%BA%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89%EF%BC%8C%E4%B8%BA%E4%BD%95%E7%BB%99%E6%88%91%E5%AE%89%E6%85%B0/</url>
+    <content><![CDATA[<p>-</p>
+<p>今天拉丁语学动词变位，结果听歌看评论区第一条就是这：</p>
+<p><img src="%E7%BD%91%E6%98%93%E4%BA%91%E8%AF%84%E8%AE%BA.jpeg"></p>
+<p>看到瞬间眼前一黑。特别是 “第一人称 复数 现在 主动 陈述句”，味儿太正了。<br>放过我吧……OTZ</p>
+<span id="more"></span>
+
+<p>-</p>
+<p>一些被遗弃猫的怪故事。</p>
+<p>第一只猫是布偶猫。猫很好看，但是毛稀稀拉拉的，子宫蓄脓已经是晚期。去了医院也没治好，就这么死去了。猫主人应该花了大价钱买猫，但甚至没有给它做绝育，直到后果严重到无法弥补，就把猫遗弃了。舍得买猫却不知道怎么养猫的人，真奇怪。</p>
+<p>第二只猫出现于贵鄙校校内，两天前出现的。耳后有一块很吓人的创伤面，有眼部炎症。根据花色我称之为狸花加白太君。太君嘴挑，不吃猫粮，只吃猫条。把猫条挤到猫粮上，埋头吨吨吨，我以为能吃点粮，结果猫走了一看剩下的粮，上面猫条的痕迹干干净净。太君晚饭一顿吃了三个猫条，这是什么奢侈的猫生啊（战术后仰）</p>
+<p>第三只是在海景壹号的故事。小猫，带回去几天了，抓人，家长说：“还是自由适合它！” 遂丢猫于家门外（物理意义）……是的就丢楼下了。猫很亲人，看见原来养它的小孩子还会上去贴贴。求小孩心理阴影面积。</p>
+<p>-</p>
+<p>口疮严重。舌两侧各一，咽喉上部一，舌右侧尤甚，黄豆大小。</p>
+<p>胡思乱想。口疮也是一个隐喻，长久的负面情绪（火气）无法发泄，积蓄久了就会破坏组织，带来说话（输出）和吃饭（输入）的困难，以及可以忍受但是持续的疼痛，受到刺激就会变成剧痛。这么说起来蛮……神棍的。这就去学塔罗占卜！（不）</p>
+<p>-</p>
+<p>我清楚地意识到自己身上的矛盾之处。我反复告诉自己，我能依靠的只有我自己。“像我这种没钱又没权的家庭，我能靠的只有自己的脑子啦！” 但是我不断意识到自己到底身处于怎样的家庭之中。一种不怎么需要花钱也能不费力地安然生活的时间，其实早就在暗中告诉了我，这已经意味着很好的家庭条件了……虽然但是，我没有办法接受一些事实，我心中我爸妈还是两个既没有选择香港也没有选择北京跑到养老城市安度余生的穷高知。我看到超过五十元的上衣和裤子，还是会觉得难以接受；点餐时会反复掂量这个菜能不能自己家做出来，能就不点了吧。我很少有需要花钱的娱乐，无论是酒、电影还是电子游戏，或者是景区的门票。我为这种简朴……起码自己觉得简朴的生活方式感到骄傲，我在群山中而不是城市里感到安心。</p>
+<p>但我也在西单的大悦城中感到另一种情感，愉悦的、暂时满足的，就像平手唱涩谷PARCO的时候闪闪发光。虽然那不是安心。我看到其他人消费的时候还是会责怪自己的消费观（你怎么可以觉得这个贵呢，又不是买不起）。我痛恨北京，即使这个城市没有过错，我也一样痛恨它。</p>
+<p>我来北京以前，印象中的北京人尊贵、油滑、八面玲珑，毫无真诚可言。当然现在不这样了。我来北京的第一年过得很糟糕。我无法接受北京小孩可以一个班只有二十八个人，每天三四点（是我记错了吗？）放学，上课还一个个都低头玩手机。每个教室都崭新得像刚建好一样，配备空调和大照明灯，顶楼还有苹果电脑（虽然从来没用过）。我想起我在烟台读书的时候，一个班六十个学生，时常有人因为学不明白、因为成绩退步而哭泣，想起头顶嗡嗡的粘稠的电风扇，和两根链子吊起来的摇摇欲坠的灯管。想起被同学一脚就踢掉的门，想起投影仪幕布降下来每次都有等好久。世界上怎么会有人如此的不努力还如此的快乐呢，这些在我原来学校最混子的混子们怎么能享受这样的生活呢，为什么我有金子一样真诚心肠的同学们不能过这样的学校生活，为什么啊！凭什么啊！我想起婷姐，热爱民国装束的语文老师，想起她的洒脱和热情，想起问 “这道题，会还是不会” 的秃头数学老师，想起给我们看蛔虫宝还提醒我们中午别吃面条（……）、上课和我们一起起哄的生物老师，长得像鳌拜加马克思的严肃历史老师，一本正经但是会给我们放动画片看的政治老师。我知道每个老师都是生命中的贵人，我也能感受到老师们都真心希望我们快乐，但有的老师业务能力真实差劲，而且似乎并不热衷于学生成绩的进步（废话，太子怎么需要知识改变命运……。）</p>
+<p>我曾经想，你们不努力我努力，我要努力上学，我要靠自己活出精彩的人生，后来才渐渐领悟到，有的人根本不需要这样的努力就已经可以衣食无忧了，而且也没有什么追求。我曾经想，我活着是为了改变世界……是为了被我背叛的故乡，是为了让所有孩子都可以拥有好的教育，像芒果街上那个人，“我走出来是为了回去”。我活着是为了让我的名字被千万人传颂，直到千万年后仍然不朽。</p>
+<p>但是我也觉得劳累……同时我感到空虚。我意识到人们过得很好，各得其所。我意识到每个人都有自己的命运。而我没有什么可以做的，我没有什么可以帮助别人的能量，以让他们记住自己的名字。我也没有邪恶的冲动，让我恶名长久流传。我在哪里呢，千万人中，我的梦又是什么呢。</p>
+<p>我有时觉得自己已经返回了儿童的某些状态。我渴望给事物命名。我有时通过自身认识世界。发生了什么？到底怎么了？为什么会发生？</p>
+<p>-</p>
+<p>人不应该这样活着。</p>
+<p>筋疲力尽是时代的症状，它普遍地降临于每一个人身上。</p>
+<p>上班之外的时间是留给自己的，不是用来补偿过劳的。八小时活成十小时，那剩下的八小时就全用来弥补而不是建立，治愈而不是生长。</p>
+<p>-</p>
+<p>我……我想，</p>
+<p>我在这里的天命，</p>
+<p>就是给所有的言不由衷，和所有的词不达意，以它们本来的样子。</p>
+<p>我想给予它们名字。这就是我存在于此的天命。</p>
+<p>椰子树，不要为我哭泣。</p>
+<p>法蒂玛，不要为我哭泣。</p>
+<p>-</p>
+<p>-</p>
+]]></content>
+      <tags>
+        <tag>随笔</tag>
       </tags>
   </entry>
   <entry>
@@ -459,47 +459,6 @@
       </tags>
   </entry>
   <entry>
-    <title>日记20210907</title>
-    <url>/2021/09/07/%E6%97%A5%E8%AE%B020210907/</url>
-    <content><![CDATA[<p>严格意义上来说这应该算我写的第一篇博文？好不容易把这个网站搞出来了……</p>
-<span id="more"></span>
-
-<p>人活着的意义是什么？是整点个人博客。咱把复古进行到底。大步后退。退出大举报时代，退出公共世界，退出当代生活。</p>
-<p>很久以前我写过公众号，热度最高的一篇叫《当代生活退出实录》。嘿嘿，要退出就贯彻到底喽，连骨灰都给你扬了。我很讨厌公众号现在的生态。已经很久都没有点进去看我关注的号（可能有一百多个）到底都发了些什么了。也没有读书。也没有写任何（课程论文之外的）东西。越发感觉自己的枯竭和语无伦次，像一口裂缝的枯井，四面漏风，风自由地来来去去，我只看着它刮来刮去。</p>
-<p>我也不知道自己在打些什么字。想到什么就写什么，仅此而已。</p>
-<p>讨厌监视，讨厌无序的状态。</p>
-<p>我现在觉得互联网就是个完全错误的东西。JOJO里DIO有句名台词：“人类的力量是有极限的……我不做人了！JOJO！” 我不知道其他人怎么样，高考刚结束的那几天我一直在整理志愿的信息，感觉就是脑子要爆掉了，只能进行一些机械的计算……变得不太像个人。人脑的内存是有极限的，也是会信息过载的。长期泡在信息流里的结果就是 “我” 不再是 “我”，而是 “你” 和 “他” 的集合体。人需要发呆。</p>
-<p>我真的很怀疑互联网的作用。特别是互联网社交。我的最高理想之一就是直接被赛博菩萨物理超度，意识上传网络世界，没有性别，没有年龄，就那么一段意识，想去哪里去哪里，想成为什么样子就成为什么样子。Candy says I’ve come to hate my body and all that it requires in this world. What do you think I’ll see if I could walk away from me? These days it’s all in the mind, it’s elemental…原谅我吧我太久没有开口了。</p>
-<p>我无法开口。浪潮已经将我淹没了，我张口说出的都是别人的语言。我也想谈谈风花雪月，但我只能谈到血。我谈到血，天空破碎；我谈到血，满嘴鲜红。安全感一旦失去就无法恢复了，它永远破碎掉了。在白色荒原上的生命一旦去过另一侧就无法再真正回来了。</p>
-<p>我看很多匿名论坛。匿名论坛是网络社交的最高奥义，没有性别，没有年龄，没有美丑，没有过去和未来，饼干与饼干相逢在漆黑的海上，各自有各自的方向，在交会时发出光亮。但除了小秦王和 iirose 之外我没有见过任何一个论坛是温暖的，一旦人气旺起来就只可能陷入永恒的寒冬。桶哥（现在该叫啥？温泉蛋老师？）讲，一个农妇谈到郭子，她说郭子骂人，“但是也总是被人骂啊，他们这群人就是互相骂来骂去消磨时间的，我也和她一样是个普通农村妇女，我感觉看不到她之后我的生活越来越没意思了，少了一个亲近的人。” 文明人接受不了这个啊，用那些很脏、很不文明、很恶心人的话，用纯粹的恶去面对别人，但是就是有人以此为乐嘛。或者用某粉红论坛的话说这叫 “ i挑掐 ”。文明人上网很努力地去解释了，很努力地维持温情了，但最后只能让软弱的我们懂得残忍，狠狠面对人生每次寒冷。i挑掐，从骂人与被骂中获得乐趣。我还是建议任何同情郭子的人去粉红论坛或者碧绿论坛转一圈，没有必要用 “她其实是一个很善良的人只是为了直播流量必须这么做” 之类的话为她开脱，太文明人了。太高贵了。那是很多人实实在在的生活，心甘情愿地骂人和被骂。认真你就输了，生气你就输了。文明人坚信在网上人也应该被当成人对待，但另一些人互相称呼对方为蛆、蛔、驴、蠊并且心甘情愿。力的作用是相互的，那当一方用力过猛的时候就只能崩盘呗。</p>
-<p>我发现我终于可以打字越打越多了。原谅我吧我实在有太多话要说了。</p>
-<p>我怀疑人这个物种设计的时候就没想让他接触太多陌生人。一种乡里社会，人和他能接触到的所有人都是熟人，每个孩子从出生到死亡都被所有人注视，这样的人怎么能适应流动的现代化的社会呢？人真的有必要接触那么多人吗？我现在越来越不关心社会新闻，我只关心我和我周围的人。仅仅凭只言片语去了解一个人，了解的只可能是一个切片。人宝贵的综合判断的能力被浪费了……</p>
-<p>我常常举一个红糖水渣男的例子来解释。一位妻子发现丈夫给办公室的女同事送红糖水，丈夫说我这是体谅女士，妻子说，你是不是想出轨，或者已经在出轨的路上。你能明白吗，丈夫的话是没有任何问题的，是符合陌生人之间的交往准则的，但是在熟人之间就会出错。人与人的交往中有很多微妙的东西，是长久的相处带来的东西，而社会新闻会隐瞒这些东西，损失这些东西。以前押沙龙写，说偏见其实是人以最低的成本去应对最多的东西，换个名字它就叫做经验了。经验大多数时候很管用，但也有失灵的时候。怕它失灵，但大部分时候经验又是对的。2333</p>
-<p>我只是一个软弱无力的intp……我并不是很信荣格八维但是我确信自己是intp（。给我一个小空间我能自己玩很久。</p>
-<p>在这里诉说是痛苦的，但是不说话更痛苦，一种尖锐的痛苦和一种温吞的痛苦。I am falling I am fading I am drowning Help me to breathe…</p>
-<p>最近看很多训猫和训狗的视频。用来训自己。自娱自乐，有很好的自我管理能力。</p>
-<p>印象最深刻的有两个。</p>
-<p>一个是训狗的。主人每次看到狗吃屎都会打它，然后很崩溃地发现它越来越当着人的面吃屎。这个故事的答案是，狗以为主人惩罚它是因为 “看到了屎”，所以为了不让人看到屎就会努力把屎吃掉。</p>
-<p>另一个是训猫的。训练人建议捡到小猫的人适时陪它们玩玩逗猫棒。这是因为有助于小猫从猎物的心态转变为猎手的心态。</p>
-<p>有时想，人与人之间相处，如果用一些训狗的套路该有多好，互相训一训。</p>
-<p>当然大部分时间都是狗训人。</p>
-<p>一些新手建博客的碎碎念：</p>
-<p>最开始是看的bilibili上一个 “两小时教你搭博客” 的视频（因为太没用了所以不放地址了），hexo init 死活搞不定，大概卡了有两天左右，整个人特别down觉得自己特别废物。然后换策略，万能的某乎啊，当你作为一个搜索引擎用的时候特别好使55555555，十分感谢一位叫枫叶的大佬写了超级详细的新手图文指南，几乎是手把手教的详细程度了！地址我附在下面，有兴趣的可以 来，试试看！（美有姬脸）</p>
-<p>但就这个样子我还又卡了好久……github总是处在一个墙和未墙的奇妙中间态，hexo init能不能成功真的看脸，我不知道重开了多少遍才好，总怀疑是自己哪里搞错了。</p>
-<p>最开始看不懂git config的语法，连报错怎么处理都看不明白，最后恍然大悟哦原来那里应该中间加一个“–global”。</p>
-<p>加了之后又不会删config里的配置。</p>
-<p>好不容易hexo init成功了一半，弹出来github那个确认用户名和邮箱的弹窗了，兴奋地点了确定，然后在下一个弹出来的窗口规规矩矩地填了用户名和……密码。据说是由于某些今年七夕后才有的变化，俺又重开了一遍。当时心完全死了，可能死了大半吧不知道了。</p>
-<p>然后一路猪突猛进，主题，改！favicon，改！背景，改！评论区，加！这改改那改改，一个 hexo d 上去一看，好家伙，白屏了……搞塌了……心态完全崩掉了，悲愤之下整个文件夹delete！重！开！！！！（最后发现可能是提交的东西太多了网络有延迟，可能第二天早上再看就好了……而且好像仓库可以回滚来着。反正我傻上加傻就是说……）</p>
-<p>总而言之，我终于把这个网站搞出来了！虽然它现在看起来还很丑，但是这是我自己搞的东西！不用担心微博监督员，也不用怕举报次数过多直接炸掉，天塌了我也能再建一个……虽然我再也不想第三次重开了QAQ</p>
-<p>诶感觉我这个状态特别像出师表：“临表涕零，不知所言。”</p>
-<p>最后整理一下我建站用的参考：</p>
-<p><font size=2>基本步骤，超详细：<a href="https://www.zhihu.com/column/c_1201860091307458560">https://www.zhihu.com/column/c_1201860091307458560</a></font><br><font size=2>git安装路径相关：<a href="https://blog.csdn.net/oschina_41767564/article/details/104768735">https://blog.csdn.net/oschina_41767564/article/details/104768735</a></font><br><font size=2>git安装路径相关: <a href="https://blog.csdn.net/oschina_41767564/article/details/104768735">https://blog.csdn.net/oschina_41767564/article/details/104768735</a></font><br><font size=2>git报错1: <a href="https://www.cnblogs.com/m0re/p/14270025.html">https://www.cnblogs.com/m0re/p/14270025.html</a></font><br><font size=2>git报错2: <a href="https://blog.csdn.net/weixin_33863087/article/details/88723769">https://blog.csdn.net/weixin_33863087/article/details/88723769</a></font><br><font size=2>git config基本操作: <a href="https://blog.csdn.net/themagickeyjianan/article/details/79683980">https://blog.csdn.net/themagickeyjianan/article/details/79683980</a></font><br><font size=2>cnpm安卸: <a href="https://blog.csdn.net/p930318/article/details/105294810?utm_term=cnpm%E5%8D%B8%E8%BD%BD%E5%8C%85&amp;utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-6-105294810&amp;spm=3001.4430">https://blog.csdn.net/p930318/article/details/105294810?utm_term=cnpm%E5%8D%B8%E8%BD%BD%E5%8C%85&amp;utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-6-105294810&amp;spm=3001.4430</a></font><br><font size=2>git仓库第一次提交时会遇到的新问题，必看: <a href="https://blog.csdn.net/weixin_41010198/article/details/119698015">https://blog.csdn.net/weixin_41010198/article/details/119698015</a></font><br><font size=2>另一个没用到的教程: <a href="https://www.cnblogs.com/m0re/p/14270025.html">https://www.cnblogs.com/m0re/p/14270025.html</a></font><br><font size=2>hexo写文章: <a href="https://zhuanlan.zhihu.com/p/156915260">https://zhuanlan.zhihu.com/p/156915260</a></font><br><font size=2>typora使用指南: <a href="https://sspai.com/post/54912/">https://sspai.com/post/54912/</a></font><br><font size=2>typora插入图片路径问题: <a href="https://www.jianshu.com/p/ff2a99dd3903">https://www.jianshu.com/p/ff2a99dd3903</a></font><br><font size=2>颜色调整：<a href="https://www.jianshu.com/p/ad0d867a8cb6">https://www.jianshu.com/p/ad0d867a8cb6</a></font><br><font size=2>侧边栏字体颜色及插入图片：<a href="https://blog.csdn.net/weixin_44543463/article/details/119749738">https://blog.csdn.net/weixin_44543463/article/details/119749738</a></font><br><font size=2>动态背景：<a href="https://www.cnblogs.com/Luweir/p/14147344.html">https://www.cnblogs.com/Luweir/p/14147344.html</a></font><br><font size=2>全文字体调整（注意px和em之间的换算）：<a href="https://www.jianshu.com/p/ad0d867a8cb6">https://www.jianshu.com/p/ad0d867a8cb6</a></font><br><font size=2>文内字体大小调整：<a href="https://blog.csdn.net/qq_41261251/article/details/102817673">https://blog.csdn.net/qq_41261251/article/details/102817673</a></font><br><font size=2>首页文章间距：<a href="https://blog.csdn.net/weixin_42024255/article/details/82814433">https://blog.csdn.net/weixin_42024255/article/details/82814433</a></font></p>
-]]></content>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我最难过的时候写下的东西</title>
     <url>/2021/09/08/%E6%88%91%E6%9C%80%E9%9A%BE%E8%BF%87%E7%9A%84%E6%97%B6%E5%80%99%E5%86%99%E4%B8%8B%E7%9A%84%E4%B8%9C%E8%A5%BF/</url>
     <content><![CDATA[<p>2019/03/08补档。</p>
@@ -594,10 +553,41 @@
       </tags>
   </entry>
   <entry>
-    <title>时代的沙尘暴</title>
-    <url>/2021/09/26/%E6%97%B6%E4%BB%A3%E7%9A%84%E6%B2%99%E5%B0%98%E6%9A%B4/</url>
-    <content><![CDATA[<p>-</p>
-<p>大概算《国社（下）》第二讲的笔记。但是为什么放在随笔里了呢，为什么呢……</p>
+    <title>日记20210907</title>
+    <url>/2021/09/07/%E6%97%A5%E8%AE%B020210907/</url>
+    <content><![CDATA[<p>严格意义上来说这应该算我写的第一篇博文？好不容易把这个网站搞出来了……</p>
+<span id="more"></span>
+
+<p>人活着的意义是什么？是整点个人博客。咱把复古进行到底。大步后退。退出大举报时代，退出公共世界，退出当代生活。</p>
+<p>很久以前我写过公众号，热度最高的一篇叫《当代生活退出实录》。嘿嘿，要退出就贯彻到底喽，连骨灰都给你扬了。我很讨厌公众号现在的生态。已经很久都没有点进去看我关注的号（可能有一百多个）到底都发了些什么了。也没有读书。也没有写任何（课程论文之外的）东西。越发感觉自己的枯竭和语无伦次，像一口裂缝的枯井，四面漏风，风自由地来来去去，我只看着它刮来刮去。</p>
+<p>我也不知道自己在打些什么字。想到什么就写什么，仅此而已。</p>
+<p>讨厌监视，讨厌无序的状态。</p>
+<p>我现在觉得互联网就是个完全错误的东西。JOJO里DIO有句名台词：“人类的力量是有极限的……我不做人了！JOJO！” 我不知道其他人怎么样，高考刚结束的那几天我一直在整理志愿的信息，感觉就是脑子要爆掉了，只能进行一些机械的计算……变得不太像个人。人脑的内存是有极限的，也是会信息过载的。长期泡在信息流里的结果就是 “我” 不再是 “我”，而是 “你” 和 “他” 的集合体。人需要发呆。</p>
+<p>我真的很怀疑互联网的作用。特别是互联网社交。我的最高理想之一就是直接被赛博菩萨物理超度，意识上传网络世界，没有性别，没有年龄，就那么一段意识，想去哪里去哪里，想成为什么样子就成为什么样子。Candy says I’ve come to hate my body and all that it requires in this world. What do you think I’ll see if I could walk away from me? These days it’s all in the mind, it’s elemental…原谅我吧我太久没有开口了。</p>
+<p>我无法开口。浪潮已经将我淹没了，我张口说出的都是别人的语言。我也想谈谈风花雪月，但我只能谈到血。我谈到血，天空破碎；我谈到血，满嘴鲜红。安全感一旦失去就无法恢复了，它永远破碎掉了。在白色荒原上的生命一旦去过另一侧就无法再真正回来了。</p>
+<p>我看很多匿名论坛。匿名论坛是网络社交的最高奥义，没有性别，没有年龄，没有美丑，没有过去和未来，饼干与饼干相逢在漆黑的海上，各自有各自的方向，在交会时发出光亮。但除了小秦王和 iirose 之外我没有见过任何一个论坛是温暖的，一旦人气旺起来就只可能陷入永恒的寒冬。桶哥（现在该叫啥？温泉蛋老师？）讲，一个农妇谈到郭子，她说郭子骂人，“但是也总是被人骂啊，他们这群人就是互相骂来骂去消磨时间的，我也和她一样是个普通农村妇女，我感觉看不到她之后我的生活越来越没意思了，少了一个亲近的人。” 文明人接受不了这个啊，用那些很脏、很不文明、很恶心人的话，用纯粹的恶去面对别人，但是就是有人以此为乐嘛。或者用某粉红论坛的话说这叫 “ i挑掐 ”。文明人上网很努力地去解释了，很努力地维持温情了，但最后只能让软弱的我们懂得残忍，狠狠面对人生每次寒冷。i挑掐，从骂人与被骂中获得乐趣。我还是建议任何同情郭子的人去粉红论坛或者碧绿论坛转一圈，没有必要用 “她其实是一个很善良的人只是为了直播流量必须这么做” 之类的话为她开脱，太文明人了。太高贵了。那是很多人实实在在的生活，心甘情愿地骂人和被骂。认真你就输了，生气你就输了。文明人坚信在网上人也应该被当成人对待，但另一些人互相称呼对方为蛆、蛔、驴、蠊并且心甘情愿。力的作用是相互的，那当一方用力过猛的时候就只能崩盘呗。</p>
+<p>我发现我终于可以打字越打越多了。原谅我吧我实在有太多话要说了。</p>
+<p>我怀疑人这个物种设计的时候就没想让他接触太多陌生人。一种乡里社会，人和他能接触到的所有人都是熟人，每个孩子从出生到死亡都被所有人注视，这样的人怎么能适应流动的现代化的社会呢？人真的有必要接触那么多人吗？我现在越来越不关心社会新闻，我只关心我和我周围的人。仅仅凭只言片语去了解一个人，了解的只可能是一个切片。人宝贵的综合判断的能力被浪费了……</p>
+<p>我常常举一个红糖水渣男的例子来解释。一位妻子发现丈夫给办公室的女同事送红糖水，丈夫说我这是体谅女士，妻子说，你是不是想出轨，或者已经在出轨的路上。你能明白吗，丈夫的话是没有任何问题的，是符合陌生人之间的交往准则的，但是在熟人之间就会出错。人与人的交往中有很多微妙的东西，是长久的相处带来的东西，而社会新闻会隐瞒这些东西，损失这些东西。以前押沙龙写，说偏见其实是人以最低的成本去应对最多的东西，换个名字它就叫做经验了。经验大多数时候很管用，但也有失灵的时候。怕它失灵，但大部分时候经验又是对的。2333</p>
+<p>我只是一个软弱无力的intp……我并不是很信荣格八维但是我确信自己是intp（。给我一个小空间我能自己玩很久。</p>
+<p>在这里诉说是痛苦的，但是不说话更痛苦，一种尖锐的痛苦和一种温吞的痛苦。I am falling I am fading I am drowning Help me to breathe…</p>
+<p>最近看很多训猫和训狗的视频。用来训自己。自娱自乐，有很好的自我管理能力。</p>
+<p>印象最深刻的有两个。</p>
+<p>一个是训狗的。主人每次看到狗吃屎都会打它，然后很崩溃地发现它越来越当着人的面吃屎。这个故事的答案是，狗以为主人惩罚它是因为 “看到了屎”，所以为了不让人看到屎就会努力把屎吃掉。</p>
+<p>另一个是训猫的。训练人建议捡到小猫的人适时陪它们玩玩逗猫棒。这是因为有助于小猫从猎物的心态转变为猎手的心态。</p>
+<p>有时想，人与人之间相处，如果用一些训狗的套路该有多好，互相训一训。</p>
+<p>当然大部分时间都是狗训人。</p>
+<p>一些新手建博客的碎碎念：</p>
+<p>最开始是看的bilibili上一个 “两小时教你搭博客” 的视频（因为太没用了所以不放地址了），hexo init 死活搞不定，大概卡了有两天左右，整个人特别down觉得自己特别废物。然后换策略，万能的某乎啊，当你作为一个搜索引擎用的时候特别好使55555555，十分感谢一位叫枫叶的大佬写了超级详细的新手图文指南，几乎是手把手教的详细程度了！地址我附在下面，有兴趣的可以 来，试试看！（美有姬脸）</p>
+<p>但就这个样子我还又卡了好久……github总是处在一个墙和未墙的奇妙中间态，hexo init能不能成功真的看脸，我不知道重开了多少遍才好，总怀疑是自己哪里搞错了。</p>
+<p>最开始看不懂git config的语法，连报错怎么处理都看不明白，最后恍然大悟哦原来那里应该中间加一个“–global”。</p>
+<p>加了之后又不会删config里的配置。</p>
+<p>好不容易hexo init成功了一半，弹出来github那个确认用户名和邮箱的弹窗了，兴奋地点了确定，然后在下一个弹出来的窗口规规矩矩地填了用户名和……密码。据说是由于某些今年七夕后才有的变化，俺又重开了一遍。当时心完全死了，可能死了大半吧不知道了。</p>
+<p>然后一路猪突猛进，主题，改！favicon，改！背景，改！评论区，加！这改改那改改，一个 hexo d 上去一看，好家伙，白屏了……搞塌了……心态完全崩掉了，悲愤之下整个文件夹delete！重！开！！！！（最后发现可能是提交的东西太多了网络有延迟，可能第二天早上再看就好了……而且好像仓库可以回滚来着。反正我傻上加傻就是说……）</p>
+<p>总而言之，我终于把这个网站搞出来了！虽然它现在看起来还很丑，但是这是我自己搞的东西！不用担心微博监督员，也不用怕举报次数过多直接炸掉，天塌了我也能再建一个……虽然我再也不想第三次重开了QAQ</p>
+<p>诶感觉我这个状态特别像出师表：“临表涕零，不知所言。”</p>
+<p>最后整理一下我建站用的参考：</p>
+<p><font size=2>基本步骤，超详细：<a href="https://www.zhihu.com/column/c_1201860091307458560">https://www.zhihu.com/column/c_1201860091307458560</a></font><br><font size=2>git安装路径相关：<a href="https://blog.csdn.net/oschina_41767564/article/details/104768735">https://blog.csdn.net/oschina_41767564/article/details/104768735</a></font><br><font size=2>git安装路径相关: <a href="https://blog.csdn.net/oschina_41767564/article/details/104768735">https://blog.csdn.net/oschina_41767564/article/details/104768735</a></font><br><font size=2>git报错1: <a href="https://www.cnblogs.com/m0re/p/14270025.html">https://www.cnblogs.com/m0re/p/14270025.html</a></font><br><font size=2>git报错2: <a href="https://blog.csdn.net/weixin_33863087/article/details/88723769">https://blog.csdn.net/weixin_33863087/article/details/88723769</a></font><br><font size=2>git config基本操作: <a href="https://blog.csdn.net/themagickeyjianan/article/details/79683980">https://blog.csdn.net/themagickeyjianan/article/details/79683980</a></font><br><font size=2>cnpm安卸: <a href="https://blog.csdn.net/p930318/article/details/105294810?utm_term=cnpm%E5%8D%B8%E8%BD%BD%E5%8C%85&amp;utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-6-105294810&amp;spm=3001.4430">https://blog.csdn.net/p930318/article/details/105294810?utm_term=cnpm%E5%8D%B8%E8%BD%BD%E5%8C%85&amp;utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-6-105294810&amp;spm=3001.4430</a></font><br><font size=2>git仓库第一次提交时会遇到的新问题，必看: <a href="https://blog.csdn.net/weixin_41010198/article/details/119698015">https://blog.csdn.net/weixin_41010198/article/details/119698015</a></font><br><font size=2>另一个没用到的教程: <a href="https://www.cnblogs.com/m0re/p/14270025.html">https://www.cnblogs.com/m0re/p/14270025.html</a></font><br><font size=2>hexo写文章: <a href="https://zhuanlan.zhihu.com/p/156915260">https://zhuanlan.zhihu.com/p/156915260</a></font><br><font size=2>typora使用指南: <a href="https://sspai.com/post/54912/">https://sspai.com/post/54912/</a></font><br><font size=2>typora插入图片路径问题: <a href="https://www.jianshu.com/p/ff2a99dd3903">https://www.jianshu.com/p/ff2a99dd3903</a></font><br><font size=2>颜色调整：<a href="https://www.jianshu.com/p/ad0d867a8cb6">https://www.jianshu.com/p/ad0d867a8cb6</a></font><br><font size=2>侧边栏字体颜色及插入图片：<a href="https://blog.csdn.net/weixin_44543463/article/details/119749738">https://blog.csdn.net/weixin_44543463/article/details/119749738</a></font><br><font size=2>动态背景：<a href="https://www.cnblogs.com/Luweir/p/14147344.html">https://www.cnblogs.com/Luweir/p/14147344.html</a></font><br><font size=2>全文字体调整（注意px和em之间的换算）：<a href="https://www.jianshu.com/p/ad0d867a8cb6">https://www.jianshu.com/p/ad0d867a8cb6</a></font><br><font size=2>文内字体大小调整：<a href="https://blog.csdn.net/qq_41261251/article/details/102817673">https://blog.csdn.net/qq_41261251/article/details/102817673</a></font><br><font size=2>首页文章间距：<a href="https://blog.csdn.net/weixin_42024255/article/details/82814433">https://blog.csdn.net/weixin_42024255/article/details/82814433</a></font></p>
 ]]></content>
       <tags>
         <tag>随笔</tag>
@@ -617,6 +607,16 @@
 <p>此外还有一问题，上学期养成了恶习，如今吃饭睡觉还是不太规律，昨天八点的闹钟，结果躺着玩手机迷迷糊糊就到了九点；今天更是直接一觉睡到十点，玩手机玩到了十二点，搞得现在下午三点还像早上一样。还是要锁机，定好了时间，每天十一点准时关机……那早起又怎么办呢？真是头疼。床确实该换换了，现在是拿姥姥手缝的褥子铺在床上，睡觉时浑身硌得慌，脚的地方也不平整；被子的形状奇奇怪怪，总和被套不对付，不知怎地就多出一块来。</p>
 <p>总之先买个床垫吧。</p>
 <p>-</p>
+]]></content>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>时代的沙尘暴</title>
+    <url>/2021/09/26/%E6%97%B6%E4%BB%A3%E7%9A%84%E6%B2%99%E5%B0%98%E6%9A%B4/</url>
+    <content><![CDATA[<p>-</p>
+<p>大概算《国社（下）》第二讲的笔记。但是为什么放在随笔里了呢，为什么呢……</p>
 ]]></content>
       <tags>
         <tag>随笔</tag>
